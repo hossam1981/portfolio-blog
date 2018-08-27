@@ -20,7 +20,7 @@ const Sequelize = require('sequelize')
 // =================================end comments code========================
 var express = require('express');
 var routes = require('./routes/index.js');
-var port = process.env.PORT || 3000;
+var PORT = process.env.PORT || 3000;
 
 var app = express();
 
