@@ -1,8 +1,4 @@
-# Boilerplate for EJS Templating in Node.js Application
-This is a sample application that shows how to use EJS for templating in a Node.js application. It shows how to use partials which allows you to repeat different items on multiple pages of your application.
 
-## Live Demonstration
-[You can view this app in production here](https://nodejs-esj-boilerplate.herokuapp.com/)
 
 ## Requirements
 
